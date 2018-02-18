@@ -2,7 +2,7 @@
 flask testing and learning
 
 requirelist:
-flask_script
-flask_bootstrap
-flask_moment
-flask_wtf
+flask_script、
+flask_bootstrap、
+flask_moment、
+flask_wtf、
