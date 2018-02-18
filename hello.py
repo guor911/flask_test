@@ -8,8 +8,7 @@ app = Flask(__name__)
 manager = Manager(app)
 moment = Moment(app)
 
-"""
-"""
+
 @app.route('/')
 def index():
     return render_template('index.html', current_time=datetime.utcnow())
