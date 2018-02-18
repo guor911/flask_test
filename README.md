@@ -5,3 +5,4 @@ requirelist:
 flask_script
 flask_bootstrap
 flask_moment
+flask_wtf
