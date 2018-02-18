@@ -1,3 +1,4 @@
-from hello import app
+import flask
 
-print(app.url_map)
+
+print(flask.__version__)
